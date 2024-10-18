@@ -1,1 +1,2 @@
 # Dashboard
+This site provides visualizations of exoplanet data obtained from the Kepler mission. Explore different characteristics of exoplanets and their host stars through interactive graphs. Use the dropdown and slider to filter data based on planet size and radius.
